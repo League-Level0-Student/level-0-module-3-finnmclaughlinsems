@@ -37,6 +37,7 @@ public class RobotColorChooser {
 		robot.move(100);
 		robot.turn(90);
 		//3. Set the pen width to 10
+		
 		//4. Ask the user what color pen they would like the robot to draw with
 		//5. Use an if/else statement to set the pen color that the user requested
         //6. If the user doesn’t enter anything, choose a random color
